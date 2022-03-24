@@ -1,11 +1,14 @@
 # learning-resources
 
-A handpicked list of resource I found particularly useful. These are in no particular order.
+A handpicked list of resources I found useful. They are in no particular order.
 
 ## Courses
 
-- [Wes Bos' courses](https://wesbos.com/courses) in general. High quality courses of various topics. Many of them focusing on JS.
-- 
+- [Wes Bos' courses](https://wesbos.com/courses)  
+  In general high quality courses on various topics (many of them focusing on JS).
+- [LevelUp Tutorials](https://leveluptutorials.com/)
+- [Frontend Masters](https://frontendmasters.com/)
+- [Sitepoint Premium](https://www.sitepoint.com/premium/library/)
 
 
 ## Books
