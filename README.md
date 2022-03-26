@@ -26,7 +26,7 @@ A handpicked list of resources I found useful. They are in no particular order.
 ## Books
 
 - [Clean Code, _Robert C. Martin Series_](https://www.goodreads.com/book/show/3735293-clean-code)  
-  This book showed me how to write a code that is easier to understand. Since we started applying the principles outlined in this book on our team, the understanding of code in between developers became a breeze. Uses Java syntax for examples.
+  This book showed me how to write code which is easier to understand. Since we started applying the principles outlined in this book on our team, the understanding of code in between developers became a breeze. Uses Java syntax for examples.
 - [You Don't Know JS, _Kyle Simpson_](https://github.com/getify/You-Dont-Know-JS)  
   I came across this series when I already had pretty solid knowledge of Javascript. Or at least so I thought! These books go into the inner workings of the JS engine and explain how it actually works. The first version was so good that I happilly supported Kyle in his effort to write and publish the second edition.
 - [CSS: The Definitive Guide, _Eric A. Meyer_](https://www.goodreads.com/book/show/26420.CSS)  
@@ -34,7 +34,7 @@ A handpicked list of resources I found useful. They are in no particular order.
 - [The Coding Career Handbook, _Shawn @swyx Wang_](https://www.learninpublic.org/)  
   Another great book. Swyx collected his tips based in a wide spectrum of knowledge from the IT industry.
 - [Pure React, David Cedia](https://daveceddia.podia.com/pure-react-complete-package)  
-  David thought me to _think React_. This deffo helped me to understand how React works. I recommended this book to all my collegues and it really shows who read it and who did not.
+  David taught me to _think React_. This deffo helped me to understand how React works. I recommended this book to all my collegues and it really shows who read it and who did not.
 - [ECMAScript 2015: A SitePoint Anthology](https://www.sitepoint.com/premium/books/ecmascript-2015-a-sitepoint-anthology/)
 - [Jump Start Git, _Shaumik Daityari_](https://www.sitepoint.com/premium/books/jump-start-git-2nd-edition)
 - [Professional Git](sitepoint.com/premium/books/professional-git)
