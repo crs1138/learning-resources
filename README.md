@@ -1,4 +1,4 @@
-# learning-resources
+# My favourite learning resources
 
 A handpicked list of resources I found useful. They are in no particular order.
 
@@ -40,7 +40,9 @@ A handpicked list of resources I found useful. They are in no particular order.
 - [Professional Git](sitepoint.com/premium/books/professional-git)
 
 
-## Talks&presentations
+## Talks, presentations and podcasts
 
 - [Git for a four year old](https://www.youtube.com/watch?v=1ffBJ4sVUb4&t=14s)  
   The inner workings of `git`. This is a must-watch!
+- [Syntax.fm](https://syntax.fm/)  
+  Wes Bos and Scott Tolinski team up to create this gem of a podcast. They present the newest trends, their personal expertise based on years of teaching web development and invite interesting guests to discuss their products and fields of expertise.
