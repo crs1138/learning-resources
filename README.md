@@ -44,5 +44,11 @@ A handpicked list of resources I found useful. They are in no particular order.
 
 - [Git for a four year old](https://www.youtube.com/watch?v=1ffBJ4sVUb4&t=14s)  
   The inner workings of `git`. This is a must-watch!
+- [Ladybug Podcast](https://www.ladybug.dev/)  
+  Emma Bostian, Sidney Buckner, Kelly Vaughn and Ali Spittel – four women in tech sharing their experiences. These seasoned web developers discuss hot technologies, advices for beginners and much more.
 - [Syntax.fm](https://syntax.fm/)  
   Wes Bos and Scott Tolinski team up to create this gem of a podcast. They present the newest trends, their personal expertise based on years of teaching web development and invite interesting guests to discuss their products and fields of expertise.
+- [Gutenberg Times](https://gutenbergtimes.com/podcast/)  
+  The official Wordpress podcast dedicated to spreading the Word of our Lord Gutenberg 🤣 I get to know about the latest addition to the Gutenberg plugin as well as what got integrated into the WP core and what direction is the developement going.
+- [The Swyx Mixtape](https://swyx.transistor.fm/)  
+  Swyx's short interviews with interesting developers.
