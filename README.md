@@ -35,10 +35,12 @@ A handpicked list of resources I found useful. They are in no particular order.
   Another great book. Swyx collected his tips based in a wide spectrum of knowledge from the IT industry.
 - [Pure React, David Cedia](https://daveceddia.podia.com/pure-react-complete-package)  
   David taught me to _think React_. This deffo helped me to understand how React works. I recommended this book to all my collegues and it really shows who read it and who did not.
-- [ECMAScript 2015: A SitePoint Anthology](https://www.sitepoint.com/premium/books/ecmascript-2015-a-sitepoint-anthology/)
-- [Jump Start Git, _Shaumik Daityari_](https://www.sitepoint.com/premium/books/jump-start-git-2nd-edition)
-- [Professional Git](sitepoint.com/premium/books/professional-git)
-
+- [ECMAScript 2015: A SitePoint Anthology](https://www.sitepoint.com/premium/books/ecmascript-2015-a-sitepoint-anthology/)  
+  A collection of articles about Javascript ES6.
+- [Jump Start Git, _Shaumik Daityari_](https://www.sitepoint.com/premium/books/jump-start-git-2nd-edition)  
+  A consise description of what Git is and how to use it.
+- [Professional Git](sitepoint.com/premium/books/professional-git)  
+  Quoting the classic: _"We gotta go deeper!"_ This is an indepth look into using Git.
 
 ## Talks, presentations and podcasts
 
