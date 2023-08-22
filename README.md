@@ -14,7 +14,7 @@ A handpicked list of resources I found useful. They are in no particular order.
   A multitude of various video courses and books. I bought a lifetime membership when it still was called Learnable and it was one of the best investments into my self-education I made.
 - [Codecademy](https://codecademy.com)  
   One of the first interactive course platforms I stumbled upon around 2012(?). They're still great, even better.
-- [Learn Git Branching](https://learngitbranching.js.org/)
+- [Learn Git Branching](https://learngitbranching.js.org/)  
   An interactive course that will let you try all the `git` commands without the fear for breaking anything. It has a nice visual representation. I learned to navigate the commit tree thanks to this course.
 - [Webpack Learning Academy](https://webpack.academy/)  
   After these free video courses, Webpack started to make some sense.
