@@ -63,3 +63,8 @@ A handpicked list of resources I found useful. They are in no particular order.
   Hosted by CJ, Coding Garden is an open, interactive and engaging community where any coder, from beginner to expert, can learn and grow together.
 - [MiduDev](https://www.twitch.tv/midudev)  
   Fullstack JS developer, Google Developer Expert and Github Star. Teaches programming in Spanish.
+
+## Articles
+
+- [AWS Identity and Access Management (IAM) – Explained With an Analogy](https://www.freecodecamp.org/news/aws-iam-explained/)
+  Concise and clear explanation of the basic building blocks for AWS authentication and authorisation service - IAM. I love the analogy and the way it puts this often very abstract problem into an easy to understand explanation.
